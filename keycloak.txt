@@ -1,0 +1,6 @@
+./kc.sh start \
+--hostname-strict false \
+--https-trust-store-file /Users/subhidh/Desktop/ssl/server-ca-truststore.jks \
+--https-trust-store-password securepass \
+--https-key-store-file /Users/subhidh/Desktop/ssl/server-keystore.jks \
+--https-key-store-password securepass
